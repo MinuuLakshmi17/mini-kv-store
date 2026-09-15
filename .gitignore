@@ -1,0 +1,19 @@
+# Compiled binaries
+bin/mini-kv-server
+bin/mini-kv-cli
+
+# Object files
+*.o
+
+# Debugging / profiling
+*.dSYM/
+core
+core.*
+
+# Runtime persistence data
+*.aof
+*.log
+
+# Editor / OS files
+.vscode/
+.DS_Store
