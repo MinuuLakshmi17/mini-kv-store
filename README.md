@@ -357,8 +357,8 @@ Measured Result
 
 Benchmark performed on the project's Linux development environment (remote02) using 10,000 operations per workload:
 
-SET: 10000 ops in 12.866409 s -> 777.22 ops/s
-GET: 10000 ops in 0.372855 s -> 26646.38 ops/s
+SET: 10000 ops in 13.096887 s -> 763.54 ops/s
+GET: 10000 ops in 0.374723 s -> 26686.38 ops/s
 
 These measurements represent a single sequential client and include TCP request/response overhead.
 
